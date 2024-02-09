@@ -149,12 +149,10 @@
                                     <input type="text" class="form-control" id="inputZip">
                                     </div>
                                 </div>
-                                <button type="submit" class="btn btn-primary">Sign in</button>
-                                </form>
+                                <button type="submit" class="btn btn-primary">Book Appointment</button>
+                            </form>
                         </div> 
                     </div>
-                </div>
-                <div class="row" id="appointmentForm">
                 </div>
             </div>
         </div>

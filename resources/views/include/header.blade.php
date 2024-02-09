@@ -30,6 +30,16 @@
             font-weight: 800;
             font-size: 20px;
         }
+        a{
+            color: #fff;
+        }
+        a:hover{
+            color: #fff;
+            text-decoration: none;
+        }
+        #bookAppointment h2 {
+            padding-bottom: 50px;
+        }
     </style>
     <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
